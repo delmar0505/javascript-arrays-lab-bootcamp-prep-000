@@ -1,6 +1,7 @@
 
 var kittens = ["Milo", "Otis", "Garfield"]
 
-Function destructivelyAppendKitten(name){
-  
+Function destructivelyAppendKitten(name) {
+  kittens.push();
+  return kittens;
 }
